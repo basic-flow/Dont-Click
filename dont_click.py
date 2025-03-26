@@ -9,7 +9,7 @@ window.config(bg='black')
 try:
     import os
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    icon_path = os.path.join(script_dir, "snake.png")
+    icon_path = os.path.join(script_dir, "dclick.png")
     if os.path.exists(icon_path):
         window.iconphoto(True, PhotoImage(file=icon_path))
     else:
