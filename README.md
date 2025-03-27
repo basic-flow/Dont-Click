@@ -7,9 +7,15 @@ A simple but fun prank application that warns users not to click a button... wit
 
 ## Screenshots
 
-![App Screen Shot](file:///C:/Users/basic%20man/Downloads/Screenshot%202025-03-27%20193024.png)
+![Screenshot 2025-03-27 193024](https://github.com/user-attachments/assets/69bc8308-a2b8-4e5c-a9ed-10b6ab836bf2)
 
-![App Screen Shot](file:///C:/Users/basic%20man/Downloads/Screenshot%202025-03-27%20193054.png)
+![Screenshot 2025-03-27 193054](https://github.com/user-attachments/assets/703b5700-5574-4ef6-af45-9bfde66cb4bb)
+
+
+
+
+
+![App Screen Shot]()
 
 ## Features
 
