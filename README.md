@@ -38,7 +38,7 @@ python dont_click.py
 ```
 Or just open the .exe file in the dist folder
 
-##Warning
+## Warning
 
 ⚠️ This application is meant as a harmless prank. The infinite loop:
 
