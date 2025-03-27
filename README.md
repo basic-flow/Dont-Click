@@ -1,4 +1,4 @@
-# Don't Click Button - A Tkinter Prank App
+# Don't Click Button - An infinite loop Prank App
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
@@ -11,11 +11,6 @@ A simple but fun prank application that warns users not to click a button... wit
 
 ![Screenshot 2025-03-27 193054](https://github.com/user-attachments/assets/703b5700-5574-4ef6-af45-9bfde66cb4bb)
 
-
-
-
-
-![App Screen Shot]()
 
 ## Features
 
